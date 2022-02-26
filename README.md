@@ -8,3 +8,8 @@ Caso: Abogabot Descripción: Es un despacho de abogados que quiere automatizar l
 Se tomara para este caso que el cliente es un despacho establecido con presencia solamente en algún estado de la republica mexicana, son un grupo de abogados con experiencia en diversas ramas del derecho, estan interesados en ampliar su cartera de clientes mediante la aplicación antes mencionada, probablemente no esten muy familiarizados con la tecnologia sus alcances y limitaciones.
 
 Tomando en consideración lo anterior, elaborará una propuesta la cual contemplará la herramienta Abogabot en un principio solo disponible para procesos legales que pudieran ser realizados de manera remota o locales; sin poner en riesgo recursos ni el prestigio del despacho por algun incumplimiento debido a limitantes fisicas.  
+
+
+ENLACE A LA MAQUETACION:
+
+https://mauriciogongoraloria.github.io/pagpracticaFRONT/#/screens/d12245cc-1680-458d-89dd-4f0d7fb22724
